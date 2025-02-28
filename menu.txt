@@ -1,0 +1,5 @@
+
+Quit ------ 0
+Settings ------ 1
+ip a ------ 2
+tty-clock ------ 3
